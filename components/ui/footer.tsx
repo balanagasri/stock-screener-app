@@ -10,7 +10,7 @@ export default function Footer() {
           Built by{" "}
           <Link
             prefetch={false}
-            href="https://twitter.com/DariusLukasukas"
+            href="https://twitter.com/balanagasri"
             target="_blank"
             rel="noreferrer"
             className="font-medium underline underline-offset-4"
@@ -20,7 +20,7 @@ export default function Footer() {
           . The source code is available on{" "}
           <Link
             prefetch={false}
-            href="https://github.com/DariusLukasukas/stocks"
+            href="https://github.com/balanagasri/stocks"
             target="_blank"
             rel="noreferrer"
             className="font-medium underline underline-offset-4"
